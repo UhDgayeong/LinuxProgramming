@@ -1,0 +1,2 @@
+﻿  main.c
+E:\SystemProgramming\HW1StudentRecordManagement\HW1StudentRecordManagement\main.c(172,16): error C4146: 단항 빼기 연산자가 부호 없는 형식에 적용되었습니다. 결과는 역시 unsigned입니다.
